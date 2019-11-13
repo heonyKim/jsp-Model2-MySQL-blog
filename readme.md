@@ -7,7 +7,6 @@ use cos;
 create database cos;
 use cos;
 
-UPDATE user SET emailFlag=1 WHERE email='heony_design@naver.com';
 
 UPDATE user SET userProfile='/blog/media/pa.png' WHERE id=2;
 
